@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background: rgb(20, 20, 20);
+    font-family: "Comic Sans MS"
+}
+
+h1 {
+    color: white;
+    margin-block: 2rem;
+    font-size: 1.5rem;
+}
